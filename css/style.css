@@ -1,0 +1,159 @@
+body{
+	font-family: 'lato', sans-serif;
+}
+.thin{
+	font-weight: 300;
+}
+.center{
+	display: block;
+	margin: 0 auto;
+}
+.text-center{
+	text-align: center;
+}
+.redtext{
+	color: #ff4848;
+}
+.bluetext{
+	color: #46c7d2;
+}
+/* Section header Start*/
+
+.contact-info{
+	text-align: right;
+	margin-top: 3%;
+	padding: 0;
+}
+.phn-number{
+	color: rgb(254, 69, 5);
+}
+.btn{
+	background: #2abdb7;
+	color: white;
+	border-radius: 0px;
+	margin-left: 25px;
+}
+.fa{
+	height: 30px;
+	width: 30px;
+	padding: 9px 10px;
+	border-radius: 50%;
+	box-shadow: 1px 2px 2px #959595;
+}
+/* Section header End*/
+/* Section Thanks to Big Start*/
+
+.banner-img{
+	background: url("../images/banner-img.png");
+	background-size: cover;
+	padding: 100px 0;
+}
+.border{
+	border: 2px solid white;
+	padding: 5px;
+}
+.info-div
+{
+	background-color: rgba(255, 255, 255, 0.77);
+	text-align: center;
+	color: #2abdb7;
+	padding: 70px 0px;
+}
+.info-div h1{
+	text-align: center;
+	color: #2abdb7;
+	margin-top: 0;
+}
+.info-div h3{
+	text-align: center;
+	color: #2abdb7;
+}
+.info-div span{
+	color: black
+}
+.find-btn{
+	background-color: #009BD7;
+	color: #FFF;
+	border: 1px solid #009BD7;
+	padding: 4px 40px;
+	font-size: 25px;
+	border-radius: 5px;
+}
+
+/* Section Thanks to Big End*/
+/*Section Loyalty Rewards Start*/
+.Loyalty h2{
+	text-align: center;
+	padding-bottom: 35px;
+}
+.Loyalty p{
+	padding: 0 56px;
+}
+
+/*Section Loyalty Rewards End*/
+/*Section Sale Enrollment Start*/
+.SaleEnrollment{
+background: #F2F2F2 none repeat scroll 0% 0%;
+margin-top: 25px;
+}
+
+/*Section Sale Enrollment End*/
+/*Section Digital Rewards Start*/
+
+.DigitalRewards p{
+	padding: 0 198px;
+}
+
+/*Section Digital Rewards End*/
+
+/*Section Dashboard Start*/
+.Dashboard{
+	background: #bae2f2;
+	margin-top: 25px;
+}
+.Dashboard h2{
+	padding-top: 100px;
+	font-size: 53px;
+}
+.Dashboard ul{
+	list-style: none;
+	padding-left: 38px;
+	padding-top: 25px;
+	font-size: 22px;
+}
+.Dashboard li{
+	margin-bottom: 20px;
+}
+/*Section Dashboard End*/
+/*Section SlowDay Start*/
+.SlowDay{
+	text-align: center;
+}
+.SlowDay p{
+	padding: 0px 123px;
+	font-size: 22px;
+}
+.SlowDay h2{
+	padding-top: 50px;
+	font-size: 45px;
+}
+/*Section SlowDay End*/
+/*Section Powerful Dashboard Provides Start*/
+
+.PowerfulDashboard p{
+
+    padding: 0 75px;
+    font-size: 19px;
+}
+.PowerfulDashboard{
+	background: #F2F2F2;
+	margin-top: 25px;
+}
+.PowerfulDashboard h2{
+	margin-top: 60px;
+}
+.PowerfulDashboard img{
+	margin-top: 20px;
+}
+
+/*Section Powerful Dashboard Provides End*/
